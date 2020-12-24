@@ -15,6 +15,12 @@
     <Implicit_KindOfTask>{191edc67-491c-4a3d-9359-b46f28479a18}</Implicit_KindOfTask>
     <Implicit_Jitter_Distribution>{b46ffe91-52be-413d-bde0-2c5d376e1679}</Implicit_Jitter_Distribution>
     <LibraryReferences>{264103e9-4972-48c4-8dd8-17b77502a6d7}</LibraryReferences>
+    <Company>Dejan</Company>
+    <Released>false</Released>
+    <Title>dejan naslov</Title>
+    <ProjectVersion>1.0</ProjectVersion>
+    <MultiuserActive>true</MultiuserActive>
+    <DefaultNamespace>nonw</DefaultNamespace>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="PlcTask.TcTTO">
